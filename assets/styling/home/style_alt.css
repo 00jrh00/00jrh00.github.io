@@ -1,6 +1,6 @@
 html, body{
 	-webkit-font-smoothing:antialiased;
-	font-family: "Comic Sans MS", sans-serif;
+	font-family: "Comic Sans", "Comic Sans MS", "Chalkboard", "ChalkboardSE-Regular", sans-serif;
 	line-height:1.4;
 	margin:0 auto;
 	max-width:860px;
