@@ -56,7 +56,7 @@ h2, h3, p {
 }
 
 span.line{
-  color: yellow;
+  color: red;
 }
 
 /* @group Blink */
