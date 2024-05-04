@@ -9,6 +9,8 @@ html, body{
 .center{
 	text-align: center;
 }
+.space { margin-top: 500px; 
+}
 .intro{
 	font-size:4em;
 }
@@ -22,7 +24,7 @@ html, body{
 }
 .bg2{
 	background-image: url(../../images/home/cher.gif);
-	background-repeat: no-repeat;
+	background-repeat: repeat;
 	background-position: center;
 	background-size: cover;
 	background-color: #E6E6FA; /* Do not repeat the image */
