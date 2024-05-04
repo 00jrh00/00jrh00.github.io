@@ -6,6 +6,8 @@ html, body{
 	max-width:860px;
 	height: 100%;
 }
+.space { margin-top: 300px; }
+
 .center{
 	text-align: center;
 }
