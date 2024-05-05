@@ -23,8 +23,8 @@ html, body{
 	background-image: url("https://i.imgur.com/YUPql5N.gif");
 }
 .bg2{
-	background-image: url(../../images/home/mac.gif);
-	background-repeat: repeat;
+	background-image: url(../../images/home/tv2.gif);
+	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
 	background-color: #000000; /* Do not repeat the image */
