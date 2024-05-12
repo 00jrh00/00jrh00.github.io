@@ -19,13 +19,15 @@ Yes, all advice is. Please don't use this as a handbook.
 
 Some people will say grades don't matter, and if you have amazing rec letters and publications in top venues (for me, that's NeurIPS, ICML, ICLR, etc.) with bad grades, then they're probably right. 
 
-Odds are, however, you don't. This sort of student is quite rare. PhD students often purposefully get lower grades to work on their research, but undergrads usually don't. If they get bad grades, it's either because they had a lot going on in their personal lives or they straight up didn't understand the material (I've been in both categories). 
+Odds are, however, you don't. This sort of student is quite rare. PhD students often purposefully get lower grades to work on their research, but undergrads usually don't. If they get bad grades, it's either because they had a lot going on in their personal lives or they straight up didn't understand the material. 
 
 If you were going to procrastinate on classes with other tasks, it's probably better to do that with interesting side projects with programming components, because an undergrad is unlikely to have the toolkit to crack really niche or cutting edge research problems in stats or ML unless they've been doing hardcore research for 2-3 years and get lucky with stellar mentorship. 
 
 My personal advice here is to take as many hard classes as you possibly can in undergrad. You'll get better at thinking even if the ramp up is difficult. Lower grades with harder courses are more meaningful (and better for you) than loading up on easy A's. Eat your vegetables. If you do that, good grades will become a secondary effect of your habits. 
 
-But short answer? You're probably overthinking it. A mixture of A's and B's aren't gonna kill you. C's and D's in core classes should be a red flag, however. 
+But short answer? You're probably overthinking it. A mixture of A's and B's aren't gonna kill you. I had two B-'s in physics and survived. 
+
+C's and D's in core classes will be a major red flag, however. 
 
 *Most important app components for a master's vs. PhD?*
 
