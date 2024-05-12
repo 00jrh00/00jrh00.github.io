@@ -23,7 +23,9 @@ Odds are, however, you don't. This sort of student is quite rare. PhD students o
 
 If you were going to procrastinate on classes with other tasks, it's probably better to do that with interesting side projects with programming components, because an undergrad is unlikely to have the toolkit to crack really niche or cutting edge research problems in stats or ML unless they've been doing hardcore research for 2-3 years and get lucky with stellar mentorship. 
 
-My personal advice here is to take as many hard classes as you possibly can in undergrad. You'll get better at thinking even if the ramp up is difficult. Lower grades with harder courses are more meaningful (and better for you) than loading up on easy A's. Eat your vegetables. 
+My personal advice here is to take as many hard classes as you possibly can in undergrad. You'll get better at thinking even if the ramp up is difficult. Lower grades with harder courses are more meaningful (and better for you) than loading up on easy A's. Eat your vegetables. If you do that, good grades will become a secondary effect of your habits. 
+
+But short answer? You're probably overthinking it. A mixture of A's and B's aren't gonna kill you. C's and D's in core classes should be a red flag, however. 
 
 *Most important app components for a master's vs. PhD?*
 
