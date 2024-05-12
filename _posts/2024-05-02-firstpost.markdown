@@ -47,6 +47,22 @@ After that, the rest is a voodoo mixture of "where I think I can get in" with "w
 
 If your rec writers have colleagues at other schools, you may want to base a lot of your search off of that. 
 
+*What is NOT on the application that I should be doing?*
+
+Reach out to professors via email to ask if they're considering new students in the upcoming cycle UNLESS they say not to on their website (doing otherwise may piss them off).
+
+Do this in August and September before the crowds start blowing up their inboxes. 
+
+Make these emails short and to the point so you get a response. For the love of God, don't waste a sentence on "My name is." 
+
+Be personable. 
+
+Use whitespace generuously. 
+
+Make each sentence its own line/paragraph and use no more than 3-4 clean sentences. Choose these sentences carefully and maximize each for impact! 
+
+With this strategy I was able to get a response with over 75% of my emails. Though the answers varied in utility and effort, a bad response is better than no response. 
+
 *Anything you regret from your application cycles?*
 
 I regret optimizing for prestige. Research is hard, frustrating, and always slower than you want. Even if prestige might afford you more immediate opportunity, prestige means much less after you get in (i.e. the rest of your life) and much less than cold, hard skills. Doing good work is a much more satisfying reward, and as you transition out of undergrad, you'll realize just how many animals there are in "less-prestigious" programs that are more skilled than you in other important ways. 
