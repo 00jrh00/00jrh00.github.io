@@ -21,7 +21,7 @@ Some people will say grades don't matter, and if you have amazing rec letters an
 
 Odds are, however, you don't. This sort of student is quite rare. PhD students often purposefully get lower grades to work on their research, but undergrads usually don't. If they get bad grades, it's either because they had a lot going on in their personal lives or they straight up didn't understand the material (I've been in both categories). 
 
-If you were going to procrastinate on classes with other tasks, it's probably better to do that with interesting side projects with programming components, because an undergrad is unlikely to have the toolkit to crack really niche or cutting edge research problems. 
+If you were going to procrastinate on classes with other tasks, it's probably better to do that with interesting side projects with programming components, because an undergrad is unlikely to have the toolkit to crack really niche or cutting edge research problems in stats or ML unless they've been doing hardcore research for 2-3 years. 
 
 My personal advice here is to take as many hard classes as you possibly can in undergrad. You'll get better at thinking even if the ramp up is difficult. Lower grades with harder courses are more meaningful (and better for you) than loading up on easy A's. Eat your vegetables. 
 
