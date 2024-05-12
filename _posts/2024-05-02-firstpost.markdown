@@ -5,7 +5,7 @@ date:   2024-05-02 20:56:19 -0400
 categories: jekyll update
 ---
 
-This is an FAQ based on my graduate admissions processes and experiences across multiple Ivy League schools. 
+This is an FAQ based on my graduate admissions processes and experiences as a student across multiple Ivy League schools. 
 
 I was a student at Harvard (master's) from 2021-2023 and now at Columbia (PhD), so I've gotten a decent taste for both types of programs (in engineering and statistics, respectively). 
 
