@@ -37,7 +37,7 @@ PhD? I'd say rec letters first, publications second. Those two things are 90% of
 
 Bottom line, though, is that academia is still a who-knows-who game. Would you trust a competent friend/colleague to recommend you a product you're gonna use every day for 5 years more than a complete stranger? I would. 
 
-4. *Where to apply?*
+*Where to apply?*
 
 One underrated aspect of grad school is being able to, you know, EXIST in that location! Looking back, there were some schools I got into in certain cities that I would never move to in retrospect. These applications were wastes of time.
 
