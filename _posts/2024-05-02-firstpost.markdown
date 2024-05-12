@@ -17,7 +17,7 @@ Yes, all advice is. Please don't use this as a handbook.
 
 Some people will say grades don't matter, and if you have amazing rec letters and publications in top venues (for me, that's NeurIPS, ICML, ICLR, etc.) with bad grades, then they're probably right. 
 
-Odds are, however, you don't. This sort of student is quite rare. PhD students often purposefully get lower grades to work on their research, but undergrads usually don't. If they get bad grades, it's either because they had a lot going on in their personal lives or they straight up didn't understand the material. 
+Odds are, however, you don't. This sort of student is quite rare. PhD students often purposefully get lower grades to work on their research, but undergrads usually don't. If they get bad grades, it's either because they had a lot going on in their personal lives or they straight up didn't understand the material. And that can be fine for one-offs! It happened to me. Just don't make it a habit.
 
 If you were going to procrastinate on classes with other tasks, it's probably better to do that with interesting side projects with programming components where you have a chance to make something cool/useful, because an undergrad is unlikely to have the toolkit to crack really niche or cutting edge research problems in stats or ML unless they've been doing hardcore research for 2-3 years and get lucky with stellar mentorship. 
 
