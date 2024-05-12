@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How (I Think) I Got into Harvard and Columbia"
+title:  "How (I Think) I Got into Harvard & Columbia"
 date:   2024-05-02 20:56:19 -0400
 categories: jekyll update
 ---
