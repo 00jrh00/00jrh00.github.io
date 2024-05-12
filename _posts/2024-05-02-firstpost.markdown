@@ -39,7 +39,7 @@ Bottom line, though, is that academia is still a who-knows-who game. Would you t
 
 *Where to apply?*
 
-One underrated aspect of grad school is being able to, you know, EXIST in that location! Looking back, there were some schools I got into in certain cities that I would never move to in retrospect. These applications were wastes of time.
+One underrated aspect of grad school is being able to, you know, EXIST in that location! Looking back, there were some schools I got into in certain cities that I would never move to in retrospect. These applications were a waste of time.
 
 Don't just focus on the school. By now, having presumably lived on your own for four years (or more) you've developed some personal preferences. Don't dismiss these preferences! Grad school is miserable enough without hating where you live, too. You may grow to hate it, but at least don't start off like that.
 
@@ -47,7 +47,7 @@ After that, the rest is a voodoo mixture of "where I think I can get in" with "w
 
 If your rec writers have colleagues at other schools, you may want to base a lot of your search off of that. 
 
-5. *Anything you regret from your application cycles?*
+*Anything you regret from your application cycles?*
 
 I regret optimizing for prestige. Research is hard, frustrating, and always slower than you want. Even if prestige might afford you more immediate opportunity, prestige means much less after you get in (i.e. the rest of your life) and much less than cold, hard skills. Doing good work is a much more satisfying reward, and as you transition out of undergrad, you'll realize just how many animals there are in "less-prestigious" programs that are more skilled than you in other important ways. 
 
