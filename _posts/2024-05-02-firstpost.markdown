@@ -9,11 +9,11 @@ This is an FAQ based on my graduate admissions processes and experiences as a st
 
 I was a student at Harvard (master's) from 2021-2023 and now at Columbia (PhD), so I've gotten a decent taste for both types of programs (in engineering and statistics, respectively). 
 
-1. *Is everything in this FAQ anecdotal and therefore potentially inapplicable/horrible advice for your own best path in graduate admissions?*
+*Is everything in this FAQ anecdotal and therefore potentially inapplicable/horrible advice for your own best path in graduate admissions?*
 
 Yes, all advice is. Please don't use this as a handbook. 
 
-2. *Are my grades high enough for an elite school?*
+*Are my grades high enough for an elite school?*
 
 Some people will say grades don't matter, and if you have amazing rec letters and publications in top venues (for me, that's NeurIPS, ICML, ICLR, etc.) with bad grades, then they're probably right. 
 
@@ -27,7 +27,7 @@ But short answer? You're probably overthinking it. A mixture of A's and B's aren
 
 C's and D's in core classes will be a major red flag, however. 
 
-3. *Most important app components for a master's vs. PhD?*
+*Most important app components for a master's vs. PhD?*
 
 Master's? Have a lot of money! No, but seriously? Grades and an interesting story. Master's programs are mainly there to fund other programs and generate good word of mouth for the university by getting their graduates into big tech firms or hot startups. It's a brand-for-brand exchange. Some people are pretty cynical about this, but at an elite university like Harvard I actually thought it was mostly a fair deal. 
 
