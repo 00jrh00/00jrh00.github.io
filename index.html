@@ -39,40 +39,6 @@ If you haven't contributed to tinygrad, your application won't be considered.
 
 <hr>
 
-<h2>Jobs that need doing</h2>
-
-If you come work here, this is a list to get started. Assumes some familiarity with the <a href="https://github.com/tinygrad/tinygrad">tinygrad</a> codebase.
-
-<h3>Getting AMD on MLPerf</h3>
-There's a <a href="https://github.com/users/geohot/projects/2">GitHub project</a> for this. Can you make the models train?<br/>
-$500 per model to get tinygrad to train from scratch to the required error within 12 hours.<br/>
-Learn more in the #mlperf-bounties channel on our <a href="https://discord.gg/ZjZadyC7PK">Discord</a><br/>
-
-<h3>Fastest Stable Diffusion and LLaMA on M1</h3>
-For LLaMA: Write the specializedjit and support int8.<br/>
-For Stable Diffusion: Clean up to use BS=2, write winograd conv and kernel search. Target is 0.324 s/it on M1 Max.<br/>
-
-<h3>Qualcomm DSP Support</h3>
-Switch over comma's DSP based driver monitoring model to tinygrad.<br/>
-A new architecture to port!</br>
-
-<h3>Max out all the GEMMs</h3>
-NVIDIA: Support local memory tensors. Some work in <a href="https://github.com/tinygrad/tinygrad/pull/557">this branch</a>.<br/>
-Apple M1: Support using Tensor Cores and simdgroup_float8x8. Some work in <a href="https://github.com/tinygrad/tinygrad/pull/728">this branch</a>.<br/>
-AMD: Write assembly backend for the linearizer<br/>
-
-<h3>Multi GPU training</h3>
-Trees, rings, and collnets oh my! AMD gets us P2P for free.
-
-<h3>Kernel Search</h3>
-There's a ton of ways to generate equivalent kernels, enumerate them and search them.<br/>
-Maybe with ML based search running in tinygrad. Self improvement?
-
-<h3>Kernel Combining (lazy.py)</h3>
-ResNets don't fuse as nicely as they could because which reduce do you fuse the elementwise with?<br/>
-BatchNorm at training and GroupNorm always is 4 kernels. Merge them!
-<br/>
-
 <h2>FAQ:</h2>
 
 <em>Is tinygrad used anywhere?</em><br/></br>
