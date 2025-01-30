@@ -1,12 +1,6 @@
-html, body{
-	-webkit-font-smoothing:antialiased;
-	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	line-height:1.4;
-	margin:0 auto;
-	max-width:860px;
-	height: 100%;
-	overflow-x: hidden;
-}
+html, body {font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	    width: auto!important; 
+	    overflow-x: hidden!important}
 
 .centered-content {
     display: flex;
