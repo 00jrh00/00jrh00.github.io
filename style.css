@@ -16,6 +16,12 @@ html, body{
     text-align: center;
 }
 
+.centered-image {
+    max-width: 80%; /* Adjust image size for responsiveness */
+    height: auto;
+    margin-top: 20px; /* Adds space between text and image */
+}
+
 .space { margin-top: 200px; }
 
 .center{
