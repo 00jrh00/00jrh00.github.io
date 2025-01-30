@@ -5,6 +5,7 @@ html, body{
 	margin:0 auto;
 	max-width:860px;
 	height: 100%;
+	overflow-x: hidden;
 }
 .space { margin-top: 200px; }
 
