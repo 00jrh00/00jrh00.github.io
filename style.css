@@ -18,6 +18,11 @@ html, body {font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     margin-top: 20px; /* Adds space between text and image */
 }
 
+.image-container {
+    max-width: 80%; 
+    margin-top: 20px;
+}
+
 .space { margin-top: 200px; }
 
 .center{
