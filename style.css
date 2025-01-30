@@ -40,7 +40,7 @@ html, body{
 .bg2{
 	background-image: url();
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: auto;
 	background-position: center;
 	background-color: #000000; /* Do not repeat the image */
    /* Resize the background image to cover the entire container background-size: cover;*/
