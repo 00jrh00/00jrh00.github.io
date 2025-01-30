@@ -10,10 +10,12 @@ html, body{
 
 .centered-content {
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    justify-content: flex-start;
     align-items: center;
-    height: 100vh; /* Full viewport height */
+    min-height: 100vh;
     text-align: center;
+    padding-top: 20vh; /* Adjust this value to position the content lower */
 }
 
 .centered-image {
